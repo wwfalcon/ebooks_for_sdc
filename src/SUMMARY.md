@@ -1,6 +1,6 @@
 # Summary
 
-* [doc](README.md)
+* [说明](README.md)
 * [彼得·圣吉 - 第五项修炼](bi_5f97b7_sheng_ji_-_di_wu_xiang_xiu_lian/README.md)
   * [出版说明](bi_5f97b7_sheng_ji_-_di_wu_xiang_xiu_lian/chu_ban_shuo_ming.md)
   * [2009年全新扩充修订版中文版序](bi_5f97b7_sheng_ji_-_di_wu_xiang_xiu_lian/2009nian_quan_xin_kuo_chong_xiu_ding_ban_zhong_wen.md)
