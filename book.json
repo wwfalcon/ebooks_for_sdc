@@ -101,7 +101,7 @@
       "主页": "http://www.crifan.com"
     }
   },
-  "root": "./_book",
+  "root": "./src",
   "plugins": [
     "theme-comscore",
     "-lunr",
