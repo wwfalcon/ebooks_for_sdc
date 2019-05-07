@@ -53,11 +53,6 @@
       ]
     }
   },
-  "links": {
-    "sidebar": {
-      "SDC": "https://wwfalcon.github.io/sdc_toolkits_page/"
-    }
-  },
   "root": "./src",
   "plugins": [
     "theme-comscore",

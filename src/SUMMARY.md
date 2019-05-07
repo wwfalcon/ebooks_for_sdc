@@ -1,6 +1,18 @@
 # Summary
 
 * [说明](README.md)
+* [MBA 轻松读 - 市场营销](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch001.md)
+  * [前言](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch002.md)
+  * [第1章 MBA的市场营销能告诉我们的事](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch003.md)
+  * [第2章 学习基本理论①（市场营销1.0）](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch004.md)
+  * [第3章 学习基本理论②（市场营销2.0）](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch005.md)
+  * [第4章 学习基本手法（Marketing mix市场营销组合）](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch006.md)
+  * [第5章 市场营销2.0的界限与品牌管理](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch007.md)
+  * [第6章 『市场营销困境』的暴露与克服方法](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch008.md)
+  * [第7章 针对『主观满足感』的具体方法（深入市场营销3.0）](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch009.md)
+  * [第8章 市场营销调查手法的更新](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch010.md)
+  * [后记](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch011.md)
+  * [重要图表](md/mba_qing_song_du_-_shi_chang_ying_xiao/ch012.md)
 * [彼得·圣吉 - 第五项修炼](md/the_fifth_discipline/ch001.md)
   * [出版说明](md/the_fifth_discipline/ch002.md)
   * [2009年全新扩充修订版中文版序](md/the_fifth_discipline/ch003.md)
@@ -19,3 +31,4 @@
     * [第9章｜心智模式](md/the_fifth_discipline/ch016.md)
   * [第四部分 实践中的反思](md/the_fifth_discipline/ch017.md)
   * [第五部分 尾声](md/the_fifth_discipline/ch018.md)
+
