@@ -2,14 +2,20 @@
   "language": "zh-hans",
   "description": "SDC EBooks",
   "pluginsConfig": {
+    "logo": {
+      "title": "SDC EBooks",
+      "titleStyle": "color: #FFF; text-align: center; font-size: 22px",
+      "rootStyle": "background-color: #5b8de4; text-align: center; padding: 10px",
+      "url": "https://wwfalcon.github.io/ebooks_for_sdc/"
+    },
+    "devops":{
+      "livere_token":"MTAyMC80NDEwOS8yMDY0NA"
+    },
     "sitemap-general": {
       "prefix": "https://wwfalcon.github.io/sdc_toolkits_page/"
     },
     "callouts": {
       "showTypeInHeader": false
-    },
-    "disqus": {
-      "shortName": "wwfalcon"
     },
     "theme-default": {
       "showLevel": true
@@ -59,7 +65,6 @@
     "-lunr",
     "-search",
     "search-plus",
-    "disqus",
     "-highlight",
     "prism",
     "prism-themes",
@@ -70,7 +75,10 @@
     "expandable-chapters-small",
     "sitemap-general",
     "copy-code-button",
-    "callouts"
+    "callouts",
+    "devops",
+    "logo",
+    "offline"
   ],
   "author": "Gavin Wong <wwfalcon@gmail.com>",
   "title": "SDC EBooks",
